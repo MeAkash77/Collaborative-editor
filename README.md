@@ -90,7 +90,7 @@ Make sure you have the following installed on your machine:
 **Cloning the Repository**
 
 ```bash
-git clone https://github.com/adrianhajdin/collaborative-editor.git
+git clone https://github.com/MeAkash77/Collaborative-editor.git
 cd collaborative-editor
 ```
 
@@ -1196,16 +1196,8 @@ export const Notifications = () => {
 
 </details>
 
-## <a name="links">🔗 Links</a>
-
-- Public assets used in the project can be found [here](https://drive.google.com/file/d/1MCQaP-imgDdopwcUn4CN_D-WglDc--Ho/view?usp=sharing)
-- [Liveblocks Starter Guide](https://liveblocks.io/docs/get-started/nextjs-lexical)
-
 ## <a name="more">🚀 More</a>
 **Advance your skills with Next.js Pro Course**
 
 Enjoyed creating this project? Dive deeper into our PRO courses for a richer learning experience. They're packed with detailed explanations, cool features, and exercises to boost your skills. Give it a go!
 
-<a href="https://www.jsmastery.pro/ultimate-next-course" target="_blank">
-<img src="https://i.ibb.co/804sPK6/Image-720.png" alt="Project Banner">
-</a>
